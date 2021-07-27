@@ -5,8 +5,8 @@ To calculate the rotation of the hour hand of the clock:
 
 ## For one rotation of the hour hand:
 
-12h = 360 degrees;
-so, 1h = 30 degrees;
+12h = 360 degrees
+so, 1h = 30 degrees
 
 also, 60min = 30 degrees;
 so, 1min = 1/2 degrees;
