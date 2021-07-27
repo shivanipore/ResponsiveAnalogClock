@@ -12,7 +12,7 @@ also, 60min = 30 degrees;
 so, 1min = 1/2 degrees;
 
 Combining we get;
-**hrotation = 30 x hour + min/2;_______(1)**
+**hrotation = 30 x hour + min/2;______(1)**
 
 ## For one rotation of the minute hand:
 
@@ -20,7 +20,7 @@ Combining we get;
 so, 1min = 6 degrees
 
 Therefore, we get;
-**mrotation = 6 x min;_________(2)**
+**mrotation = 6 x min;________(2)**
 
 ## Similarly, for one rotation of the second hand:
 
@@ -28,6 +28,8 @@ Therefore, we get;
 so, 1sec = 6 degrees
 
 Therefore, we get;
-**srotation = 6 x sec;_________(3)**
+**srotation = 6 x sec;________(3)**
+
+![image](https://user-images.githubusercontent.com/67893793/127120490-aa78ddf5-85fd-493f-b596-c9b5a71dbe4c.png)
 
 
